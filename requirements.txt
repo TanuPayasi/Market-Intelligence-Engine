@@ -1,0 +1,17 @@
+requests
+pandas
+numpy
+yfinance
+ta
+transformers
+torch
+scipy
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+streamlit
+plotly
+kafka-python
+spacy
+python-dotenv
